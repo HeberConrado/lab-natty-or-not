@@ -20,17 +20,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Evolução para a era da AI e seus desafios!
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Desafiando o conhecimento e aprendendo cada vez mais com as AI
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonardo AI, Gamma App
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Utilizando pronpts ensinados na aula
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
